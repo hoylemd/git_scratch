@@ -7,13 +7,15 @@ this is a section in the readme so I have some commits
 # sayhi.sh
 Call this, and it says hi!
 
-# Things
-This is a list
+# Things I don't like
 
 - Lions
 - Tigers
 - Bears
 - Oh My!
+- Dog bites
+- Bee Stings
+- Feeling sad
 
 # Favourite things
 
